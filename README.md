@@ -1,6 +1,5 @@
-### Hi there 👋
+###### 안녕하세요. 저는 한국외국어대학교에서 인도학과 경영학(GBT)를 전공하였고, 기획하는 개발자가 되는 것이 목표입니다
 
-## My major is Indian Studies. And My second major is Global Business & Technology.
 
 <!--
 **DohuiKo/DohuiKo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
