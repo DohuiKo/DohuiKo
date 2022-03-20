@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+## My major is Indian Studies. And My second major is Global Business & Technology.
+
 <!--
 **DohuiKo/DohuiKo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
