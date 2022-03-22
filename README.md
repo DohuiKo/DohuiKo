@@ -1,7 +1,7 @@
 #### 이름: 고도희
 #### 전공: 인도학(Indian Studies), GBT(Global Business & Technology)
 
-* self 인생 3계명
+> ✨!올해 목표!✨
 1. 대충 하지 말고 열심히 하자
 2. 포기하고 싶고 힘들 때 한 번 더 확인하자
 3. 체력을 기르자
@@ -29,6 +29,9 @@
 />
 <img
   src="https://img.shields.io/badge/Python-FF7800?style=flat-square&logo=Python&logoColor=white"
+/>
+<img
+  src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"
 />
 
 
