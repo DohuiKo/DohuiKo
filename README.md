@@ -1,4 +1,3 @@
----
 이름: 고도희
 전공: 인도학(Indian Studies), GBT(Global Business & Technology)
 ---
