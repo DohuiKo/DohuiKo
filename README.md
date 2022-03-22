@@ -11,9 +11,8 @@
 *감사합니다*
 <br>
 
-![Dohui's Github State](https://github-readme-stats.vercel.app/api?username=DohuiKo&show_icons=true&theme=radical)                  
+![Dohui's Github State](https://github-readme-stats.vercel.app/api?username=DohuiKo&show_icons=true&theme=radical)<br>
 
-<br>
 <img
   src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"
 />
