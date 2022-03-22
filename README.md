@@ -31,7 +31,7 @@
   src="https://img.shields.io/badge/Python-FF7800?style=flat-square&logo=Python&logoColor=white"
 />
 <img
-  src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C language&logoColor=white"
+  src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=Clanguage&logoColor=white"
 />
 
 
