@@ -8,7 +8,9 @@
 
 `IT개발을 잘 아는 기획자`, `프론트엔드개발 잘알` 이 되고 싶습니다.<br>
 
-*감사합니다* <br>
+*감사합니다*
+
+<br>
 <br>
 
 ![Dohui's Github State](https://github-readme-stats.vercel.app/api?username=DohuiKo&show_icons=true&theme=radical)                  
