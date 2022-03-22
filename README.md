@@ -1,4 +1,4 @@
-**인도학(Indian Studies)**과 **GBT(Global Business & Technology)**를 전공하는 고도희입니다. <br>
+인도학(Indian Studies)과 GBT(Global Business & Technology)를 전공하는 고도희입니다. <br>
 멋쟁이사자처럼 한국외국어대학교 글로벌캠퍼스 10기 운영진
 
 > ✨올해 목표✨ 
