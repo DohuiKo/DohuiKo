@@ -42,11 +42,7 @@
 
 <br>
 
-<details>
-<summary>Github state</summary>
 ![Dohui's Github State](https://github-readme-stats.vercel.app/api?username=DohuiKo&show_icons=true&theme=radical)
-</div>
-</details>
 
 <!--
 **DohuiKo/DohuiKo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
