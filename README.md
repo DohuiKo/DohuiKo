@@ -44,7 +44,6 @@
 
 <details>
 <summary>Github state</summary>
-<div markdown="1">
 ![Dohui's Github State](https://github-readme-stats.vercel.app/api?username=DohuiKo&show_icons=true&theme=radical)
 </div>
 </details>
