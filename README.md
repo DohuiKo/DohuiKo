@@ -4,9 +4,9 @@
 - GBT(Global Business & Technology)
 
 ## Career
-- 멋쟁이사자처럼 9기
+- 멋쟁이사자처럼 9기 (Likelion 9th Member)
 - 9기 해커톤 참여, 교내 공동구매 플랫폼 HGG 버전1 구현
-- 멋쟁이사자처럼 10기 운영진(한국외대 글로벌캠퍼스 대표)
+- 멋쟁이사자처럼 10기 대표 (Likelion 10th Core Member)
 
 ## Interests
 - 직관적인 UI 구축과 
