@@ -1,7 +1,7 @@
 
 ## Major
-- 인도학(Indian Studies)
-- GBT(Global Business & Technology)
+- 인도학과(Indian Studies)
+- GBT학부(Global Business & Technology)
 
 ## Career
 - 멋쟁이사자처럼 9기 (Likelion 9th Member)
@@ -9,7 +9,7 @@
 - 멋쟁이사자처럼 10기 대표 (Likelion 10th Core Member)
 
 ## Interests
-- 직관적인 UI 구축과 
+- 직관적인 UI 구축
 - 효율적인 프로젝트 관리
 
   
