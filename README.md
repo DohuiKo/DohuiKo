@@ -3,26 +3,6 @@
 - 인도학과(Indian Studies)
 - GBT학부(Global Business & Technology)
 
-## Career
-- 멋쟁이사자처럼 9기 (Likelion 9th Member)
-- 9기 해커톤 참여, 교내 공동구매 플랫폼 HGG 버전1 구현
-- 멋쟁이사자처럼 10기 대표 (Likelion 10th Core Member)
-
-## Interests
-- 직관적인 UI 구축
-- 효율적인 프로젝트 관리
-- 서비스 기획과 프론트엔드 개발
-
-  
-## 2022 Goal
-1. HGG 프로젝트 런칭 (2022 5월 예정)
-2. 일주일에 2번 운동 체력 기르기
-3. 알고리즘 공부 시작하기 (2022 하반기 예정)
-4. 프론트엔드 기초 소양 갖추기 (반응형 웹 구현에 대한 관심 -> React 학습)
-5. 멋사의 밤 행사 주최 (2022 8월 예정)
-  
-
-
 <h1> 📚 Stack  📚</h1>
 
 
